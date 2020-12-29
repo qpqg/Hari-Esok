@@ -9,4 +9,5 @@ def uwu(hari):
         print("Hari-harimu untuk hari esok sudah tidak ada")
 
 while True:
-    ask = input("Masukkan Hari (huruf kecil): ")
+    ask = uwu(input("Masukkan Hari (huruf kecil): "))
+
